@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "649546968560",
+    "project_id": "logreg-d43f1",
+    "storage_bucket": "logreg-d43f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649546968560:android:94b95ab2c18194244bc135",
+        "android_client_info": {
+          "package_name": "com.example.logres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649546968560-07jmh0k0tulgoajn6ep58dou04ocmd3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.logres",
+            "certificate_hash": "b1ee1a81248b21842a5779e50628df67900f0449"
+          }
+        },
+        {
+          "client_id": "649546968560-piejgqkmdlj7fjl7l42covqpuguqu0t0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz0afVBEJQYcLDGWXEAKEYQIh6w_zjwzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649546968560-piejgqkmdlj7fjl7l42covqpuguqu0t0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
